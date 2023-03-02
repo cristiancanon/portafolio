@@ -157,7 +157,7 @@ html{
     width: 130px;
 }
 .Sobremi .fila .col ul li span{
-    background-color: aquamarine;
+    background-color: blue;
     padding: 3px;
     font-weight: bold;
     border-radius: 5px;
@@ -166,6 +166,7 @@ html{
     display: flex;
     flex-wrap: wrap;
 }
+z
 
 
 
