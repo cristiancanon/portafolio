@@ -19,7 +19,7 @@ function seleccionar(){
 function efectoHabilidades(){
     var skills = document.getElementById("skills");
     var distance_skills = window.innerHeight - skills.getBoundingClientRect().top;
-     if(distance_skills >=300){
+     if(distance_skills >= 300){
         let habilidades = document.getElementsByClassName("progreso");
         habilidades[0].classList.add("javascript");
         habilidades[1].classList.add("htmlcss");
